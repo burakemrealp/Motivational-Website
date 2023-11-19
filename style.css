@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.image{
+    border: 5px solid white;
+    width: 100%;
+}
+
+.main-content{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+}
